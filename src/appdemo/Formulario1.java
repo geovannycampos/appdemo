@@ -77,7 +77,7 @@ public class Formulario1 extends javax.swing.JFrame {
 
     private void btnMostrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnMostrarActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(this, "el numero ingresado es: " + txtNumero.getText());
+        JOptionPane.showMessageDialog(this, "el numero ingresado fue: " + txtNumero.getText());
     }//GEN-LAST:event_btnMostrarActionPerformed
 
     /**
